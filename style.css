@@ -1,0 +1,373 @@
+head{
+    background-color: darkgray;
+}
+body{
+    background-color:darkgray;
+}
+.header{
+    text-align: center;
+    justify-content: space-between;
+
+}
+.h1{
+    text-align-last: justify;
+    
+}
+
+ 
+
+.icons_block{
+    
+    justify-content: space-between;
+    background-image: url(https://1000remontov.ru/wp-content/uploads/2018/04/3-1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    width: auto;
+    height: 100%;
+    height: 100%;
+   
+}
+
+
+    
+
+.icons_block i{
+    margin: 100px;
+    margin-right: 800px;
+    
+    
+}
+
+.text-icons_block{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;   
+}
+
+.p3{
+    margin: 0;
+    margin-left: 30px;
+    text-align: center;
+    width: 1110px;
+    font-weight: bold;
+    border: 10px solid black;
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 50px;
+
+}
+.contacts{
+    display: none;
+    margin-left: 10px;
+}
+
+
+.p1{
+    text-decoration: underline;
+    margin: 5px 0;
+}
+
+.p2{
+    text-decoration: underline;
+}
+
+
+
+.main{
+    text-align:center;
+    justify-content: space-between;
+    background-image: url(https://jjordanarchitect.com/wp-content/uploads/2018/03/index.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    height: auto;
+    width: auto;
+    height: 100%;
+    height: 100%;
+}
+
+
+
+.main2{
+    margin: 0;
+    display: block;
+    text-align: start;
+    text-decoration: underline;
+    font-size: larger;
+}
+
+.main2 p::before{
+    content: "-";
+}
+
+.Galleries{
+    text-align: center;
+    background-image: url(https://i.pinimg.com/736x/e3/99/90/e399904cad716785955e1b2597ffaedb.jpg);
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    width: auto;
+    height: 100%;
+    height: 100%;
+
+
+}
+
+
+.gallery_item{
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    justify-content: space-between;
+
+}
+
+.gallery_item img {
+    width: 200px;
+    height: auto;
+}
+
+.p_1{
+    font-weight:bolder;
+
+}
+
+.p_2{
+    font-weight: bolder;
+}
+
+.p_3{
+    font-weight: bolder;
+}
+
+.p_4{
+    font-weight: bolder;
+}
+
+.p_5{
+    font-weight: bolder;
+}
+span{
+    display: block;
+}
+
+.lastPart{
+    background-color: black;
+}
+
+.lastH2{
+    color: white;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.line{
+    color: orangered;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+.tel{
+    color: white;
+    text-align: center;
+}
+
+.E-Mail{
+    color: white;
+    text-align: center;
+}
+
+.Galleries p{
+    font-weight: bolder;
+}
+
+.p_6{
+    color: white;
+    font-weight: bolder;
+}
+head{
+    background-color: darkgray;
+}
+body{
+    background-color:darkgray;
+}
+.header{
+    text-align: center;
+    justify-content: space-between;
+}
+.h1{
+    text-align-last: justify;
+}
+
+.icons_block{
+    justify-content: space-between;
+    background-image: url(https://1000remontov.ru/wp-content/uploads/2018/04/3-1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+
+.icons_block i{
+    margin: 100px;
+    margin-right: 800px;
+}
+
+.text-icons_block{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.p3{
+    margin: 0;
+    margin-left: 30px;
+    text-align: center;
+    width: 1110px;
+    font-weight: bold;
+    border: 10px solid black;
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 50px;
+}
+.contacts{
+    display: none;
+    margin-left: 10px;
+}
+
+.p1{
+    text-decoration: underline;
+    margin: 5px 0;
+}
+
+.p2{
+    text-decoration: underline;
+}
+
+.main{
+    text-align: center;
+    justify-content: space-between;
+    background-image: url(https://jjordanarchitect.com/wp-content/uploads/2018/03/index.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    height: 100%;
+    width: 100%;
+}
+
+.main2{
+    margin: 0;
+    display: block;
+    text-align: start;
+    text-decoration: underline;
+    font-size: larger;
+}
+
+.main2 p::before{
+    content: "-";
+}
+
+.Galleries{
+    text-align: center;
+    background-image: url(https://i.pinimg.com/736x/e3/99/90/e399904cad716785955e1b2597ffaedb.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+
+.gallery_item{
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.gallery_item img {
+    width: 200px;
+    height: auto;
+}
+
+.p_1{
+    font-weight:bolder;
+}
+
+.p_2{
+    font-weight: bolder;
+}
+
+.p_3{
+    font-weight: bolder;
+}
+
+.p_4{
+    font-weight: bolder;
+}
+
+.p_5{
+    font-weight: bolder;
+}
+span{
+    display: block;
+}
+
+.lastPart{
+    background-color: black;
+}
+
+.lastH2{
+    color: white;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.line{
+    color: orangered;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+.tel{
+    color: white;
+    text-align: center;
+}
+
+.E-Mail{
+    color: white;
+    text-align: center;
+}
+
+.Galleries p{
+    font-weight: bolder;
+}
+
+.p_6{
+    color: white;
+    font-weight: bolder;
+}
+
+/* Медиазапрос для мобильных устройств */
+@media (max-width: 768px) {
+    .icons_block i{
+        margin: 20px;
+        margin-right: 20px;
+    }
+    .p3 {
+        margin-left: 10px;
+        width: 90%;
+        padding: 5px;
+        border-radius: 20px;
+    }
+    .main2 {
+        font-size: medium;
+    }
+    .gallery_item img {
+        width: 100px;
+    }
+    .lastH2, .line, .tel, .E-Mail {
+        font-size: smaller;
+    }
+}
